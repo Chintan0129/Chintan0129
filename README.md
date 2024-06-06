@@ -1,4 +1,4 @@
-
+[![MasterHead](https://github.com/Chintan0129/Chintan0129/blob/main/banner.png)]
 <h1 align="center">Hi Folks 👋, I'm Chintan Shah</h1>
 <h3 align="center">I am a passionate software developer specializing in Web Devlopment. I love coding, learning new technologies, and sharing my knowledge with the community.</h3>
 <img src="https://github.com/Chintan0129/Chintan0129/blob/main/coding.jpg" alt="coding" align="right">
