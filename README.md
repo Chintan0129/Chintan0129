@@ -1,6 +1,7 @@
+
 <h1 align="center">Hi Folks 👋, I'm Chintan Shah</h1>
 <h3 align="center">I am a passionate software developer specializing in Web Devlopment. I love coding, learning new technologies, and sharing my knowledge with the community.</h3>
-
+<img src="https://github.com/Chintan0129/Chintan0129/blob/main/coding.jpg" alt="coding" align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chintan0129&label=Profile%20views&color=0e75b6&style=flat" alt="chintan0129" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
