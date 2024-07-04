@@ -24,10 +24,11 @@
 <a href="https://www.linkedin.com/in/chintan29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/chintan29" height="30" width="40" /></a>
   <h4>Few Projects:</h4>
   <ul>
-    <li> <li> <a href="https://training-chintans.md-staging.com/todo-app/" target="blank">Todo List </a></li>
+     <li> <a href="https://training-chintans.md-staging.com/todo-app/" target="blank">Todo List </a></li>
       <li> <a href="https://weather-app-internship.netlify.app/" target="blank">Weather App using Reactjs </a></li>
     <li>       <a href="https://training-chintans.md-staging.com/element-drag-drop/" target="blank">Drag & Drop Game </a></li>
-    <li> <a href="https://training-chintans.md-staging.com/clock-app/" target="blank">ClockApp using PHP </a></li></li>
+    <li> <a href="https://training-chintans.md-staging.com/clock-app/" target="blank">ClockApp using PHP </a></li>
+    <li><a href="https://training-chintans.md-staging.com/shopping-cart/" target="blank">MobileDukan-Ecommerce APP </a></li>
   </ul>
 </p>
 
