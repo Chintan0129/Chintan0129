@@ -26,10 +26,7 @@
   <ul>
     
     <li><a href="https://training-chintans.md-staging.com/shopping-cart/" target="blank">MobileDukan-Ecommerce website </a></li>
-      <li> <a href="https://training-chintans.md-staging.com/todo-app/" target="blank">Todo List </a></li>
-      <li> <a href="https://weather-app-internship.netlify.app/" target="blank">Weather App using Reactjs </a></li>
-    <li>       <a href="https://training-chintans.md-staging.com/element-drag-drop/" target="blank">Drag & Drop Game </a></li>
-    <li> <a href="https://training-chintans.md-staging.com/clock-app/" target="blank">ClockApp using PHP </a></li>
+     
        
   
   </ul>
