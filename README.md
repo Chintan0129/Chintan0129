@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Internship Final Project**
+- 🔭 I’m currently working on **Web Devlopment Domain and learning new frameworks and technology which help to excel in my career.**
 
-- 🌱 I’m currently learning **Gutenburg,React,Nodejs**
+- 🌱 I’m currently learning **Mern Stack and also focussing on Devops .**
 
 - 👨‍💻 All of my projects are available at [https://chintanshah-portfolio.netlify.app/](https://chintanshah-portfolio.netlify.app/)
 
-- 💬 Ask me about **react,Node js,Wordpress,SQL,MongoDB**
+- 💬 Ask me about **Reactjs,ES6/7,Nodejs,MongoDB,PHP,CSS,HTMl,AL/ML,Devops.**
 
 - 📫 How to reach me **chintan2429@gmail.com**
 
