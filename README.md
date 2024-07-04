@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **Mern Stack and also focussing on Devops .**
 
-- 👨‍💻 All of my projects are available at [https://chintanshah-portfolio.netlify.app/](https://chintanshah-portfolio.netlify.app/)
-
 - 💬 Ask me about **Reactjs,ES6/7,Nodejs,MongoDB,PHP,CSS,HTMl,AL/ML,Devops.**
 
 - 📫 How to reach me **chintan2429@gmail.com**
