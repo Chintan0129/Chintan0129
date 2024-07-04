@@ -24,6 +24,10 @@
 <a href="https://www.linkedin.com/in/chintan29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/chintan29" height="30" width="40" /></a>
   <h4>Few Projects:</h4>
   <a href="https://training-chintans.md-staging.com/shopping-cart/" target="blank">MobileDukan-Ecommerce website </a>
+    <a href="[https://training-chintans.md-staging.com/shopping-cart/](https://training-chintans.md-staging.com/clock-app/)" target="blank">ClockApp using PHP </a>
+        <a href="https://training-chintans.md-staging.com/todo-app/" target="blank">Todo List </a>
+            <a href="https://training-chintans.md-staging.com/element-drag-drop/" target="blank">Drag & Drop Game </a>
+    
   
 </p>
 
